@@ -20,4 +20,8 @@ gm182UP <- read_csv(here::here('data', '2018-11-27_Gm182-UserPoints-Start-CEE-Lo
 gm182 <- read_csv(here::here('data', '2018-11-27_Gm182-Start-CEE-Locations-Kahuna.csv')) %>% 
   mutate(status = 'noUserPoints')
 colnames(gm182)
+<<<<<<< HEAD
 ncol(gm182)
+=======
+ncol(gm182)
+>>>>>>> 2ca005b787d6921595282075f0855d6b88d08eb6
