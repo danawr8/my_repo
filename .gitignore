@@ -1,2 +1,5 @@
 *.pdf
 .Rproj.user
+*.Rout
+*.Rproj
+*.DS_Store
